@@ -12,9 +12,7 @@ This project asks the user how many Colombian pesos, Peruvian soles, and Brazili
 - Ability to run Python scripts from a terminal/command line
 
 
+## How to Run
 
-## 🚀 How to Run
-
-1. **Download or clone the repository**  
-   From GitHub, click the green **Code** button → **Download ZIP**  
-   OR clone with your terminal:
+From GitHub, click the green **Code** button → **Download ZIP**   
+OR clone with your terminal
